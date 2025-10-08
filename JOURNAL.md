@@ -10,9 +10,15 @@ This is my journal of the design and building process of **Wireless split keyboa
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/293).
 
 
-## 10/8/2025 - Created the schematics design for the hackpad  
+## 10/8/2025 2 PM - Created the schematics design for the hackpad  
 
 ![Screenshot 2025-10-08 at 10.54.45 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--c61080db1271f4665dc5fce22a7ec0a848da001f/Screenshot%202025-10-08%20at%2010.54.45%E2%80%AFAM.png)
 
 Followed the tutorial on hackpad and completed the very beginning of the design for the hackpad. Learned how to add wires, how to use add symbols, how to search for power symbols. It took me a while to learn how to make the wires turn though, if you know you know. Going pretty good right now.   
+
+## 10/8/2025 3 PM - Created the PCB design  
+
+![Screenshot 2025-10-08 at 11.34.38 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA1NywicHVyIjoiYmxvYl9pZCJ9fQ==--fa876324ac7242006bd0ef9452aec72667c372b7/Screenshot%202025-10-08%20at%2011.34.38%E2%80%AFAM.png)
+
+It took me a while to figure out that I could switch between different grids and place the switches and stuff through different grids. Other than this part the rest were pretty self-explanatory. Everything went well and I am going to route the PCB next.   
 
