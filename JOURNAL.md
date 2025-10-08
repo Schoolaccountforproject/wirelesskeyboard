@@ -22,3 +22,9 @@ Followed the tutorial on hackpad and completed the very beginning of the design 
 
 It took me a while to figure out that I could switch between different grids and place the switches and stuff through different grids. Other than this part the rest were pretty self-explanatory. Everything went well and I am going to route the PCB next.   
 
+## 10/8/2025 6 PM - Routed the PCB  
+
+![Screenshot 2025-10-08 at 2.14.47 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--7ad213cb2c987d14a9a0e9f67295b9ba026a3ee6/Screenshot%202025-10-08%20at%202.14.47%E2%80%AFPM.png)
+
+That straight up took so much time it's not even worth it. It took me so long just to route the PCB. I had to text people in the support channel to search for help, but now I know there's a front and back side for this board that two different colored wires controls. At least that seems to be the most difficult part and now it's done I'm glad.   
+
