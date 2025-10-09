@@ -28,3 +28,9 @@ It took me a while to figure out that I could switch between different grids and
 
 That straight up took so much time it's not even worth it. It took me so long just to route the PCB. I had to text people in the support channel to search for help, but now I know there's a front and back side for this board that two different colored wires controls. At least that seems to be the most difficult part and now it's done I'm glad.   
 
+## 10/9/2025 - Redesigned/upgraded the Schematics design  
+
+![Screenshot 2025-10-09 at 1.59.37 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--da86e5ca792c51978d377bf088ed2c4161987df0/Screenshot%202025-10-09%20at%201.59.37%E2%80%AFPM.png)
+
+You don't know how long it took me to do this. It feels like every time I do this I am learning something new, the connecting labels and wiring them is confusing enough to the point that I had to contact the person that made the guide, but also they had lots of grammatical and spelling errors and I was super confused by it. When I finally got it I had to put go search for these components one by one and add them one by one then count the space for the precision, then the dude told me the space doesn't matter and there's copy paste..  
+
