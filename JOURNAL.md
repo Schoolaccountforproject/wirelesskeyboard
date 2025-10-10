@@ -10,27 +10,33 @@ This is my journal of the design and building process of **Wireless split keyboa
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/293).
 
 
-## 10/8/2025 2 PM - Created the schematics design for the hackpad  
+## 10/8/2025 10 AM - Created the schematics design for the hackpad  
 
 ![Screenshot 2025-10-08 at 10.54.45 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--c61080db1271f4665dc5fce22a7ec0a848da001f/Screenshot%202025-10-08%20at%2010.54.45%E2%80%AFAM.png)
 
 Followed the tutorial on hackpad and completed the very beginning of the design for the hackpad. Learned how to add wires, how to use add symbols, how to search for power symbols. It took me a while to learn how to make the wires turn though, if you know you know. Going pretty good right now.   
 
-## 10/8/2025 3 PM - Created the PCB design  
+## 10/8/2025 11 AM - Created the PCB design  
 
 ![Screenshot 2025-10-08 at 11.34.38 AM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA1NywicHVyIjoiYmxvYl9pZCJ9fQ==--fa876324ac7242006bd0ef9452aec72667c372b7/Screenshot%202025-10-08%20at%2011.34.38%E2%80%AFAM.png)
 
 It took me a while to figure out that I could switch between different grids and place the switches and stuff through different grids. Other than this part the rest were pretty self-explanatory. Everything went well and I am going to route the PCB next.   
 
-## 10/8/2025 6 PM - Routed the PCB  
+## 10/8/2025 2 PM - Routed the PCB  
 
 ![Screenshot 2025-10-08 at 2.14.47 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--7ad213cb2c987d14a9a0e9f67295b9ba026a3ee6/Screenshot%202025-10-08%20at%202.14.47%E2%80%AFPM.png)
 
 That straight up took so much time it's not even worth it. It took me so long just to route the PCB. I had to text people in the support channel to search for help, but now I know there's a front and back side for this board that two different colored wires controls. At least that seems to be the most difficult part and now it's done I'm glad.   
 
-## 10/9/2025 - Redesigned/upgraded the Schematics design  
+## 10/9/2025 2 PM - Redesigned/upgraded the Schematics design  
 
 ![Screenshot 2025-10-09 at 1.59.37 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--da86e5ca792c51978d377bf088ed2c4161987df0/Screenshot%202025-10-09%20at%201.59.37%E2%80%AFPM.png)
 
 You don't know how long it took me to do this. It feels like every time I do this I am learning something new, the connecting labels and wiring them is confusing enough to the point that I had to contact the person that made the guide, but also they had lots of grammatical and spelling errors and I was super confused by it. When I finally got it I had to put go search for these components one by one and add them one by one then count the space for the precision, then the dude told me the space doesn't matter and there's copy paste..  
+
+## 10/9/2025 9 PM - Finished everything in the Schematics  
+
+![Screenshot 2025-10-09 at 9.36.32 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTMyOCwicHVyIjoiYmxvYl9pZCJ9fQ==--64a8bfd849173001ff473d92265af306c8c280a4/Screenshot%202025-10-09%20at%209.36.32%E2%80%AFPM.png)
+
+Added Battery, added battery voltage sensing, mounting points, mousebites, and footprints. The majority of the time was used to debug what went wrong, including constant duplication error when trying to assign footprint through annotation. As well as minor issues like misunderstanding in the documentation and the constant "dm spam messaging author with questions" (Not actual spam, I reassured with the author that I could ask questions whenever I have). I'm slowly learning by making.   
 
